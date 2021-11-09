@@ -1,2 +1,2 @@
 # tempo
-que timepo?
+que tiempo?
